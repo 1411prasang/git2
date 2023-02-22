@@ -17,6 +17,7 @@ int tanX(int a){
 //////////////////Ho gua bssss//////////
 //////////////////Abhi time hai ////////
 ////////////////Abhi aur time hai/////////
+//////////////Abhi aur bahut time hai//////
 int multiply(int a,int b,int c,int d,int e){
     d=e*d
     a=d
