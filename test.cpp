@@ -15,6 +15,8 @@ int tanX(int a){
     return tan(a);
 }
 //////////////////Ho gua bssss//////////
+//////////////////Abhi time hai ////////
+////////////////Abhi aur time hai/////////
 int multiply(int a,int b,int c,int d,int e){
     d=e*d
     a=d
